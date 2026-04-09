@@ -2,7 +2,7 @@
 
 (Currently only have the dataloader)
 
-This project uses a Convolutional Neural Network (CNN) along with pose estimation to classify actions related to using a punching bag. Actions include `punch`, `kick`, and `downtime` (no action). The project utilizes [MediaPipe](https://google.github.io/mediapipe/) for pose estimation and PyTorch for model training and data handling.
+This project uses a Convolutional Neural Network (CNN) along with pose estimation to classify actions related to using a punching bag. Actions include `punch`, `kick`, and `downtime` (no action). The project utilizes [MediaPipe](https://github.com/google-ai-edge/mediapipe) for pose estimation and PyTorch for model training and data handling.
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
